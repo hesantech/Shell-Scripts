@@ -1,4 +1,6 @@
 #!/bin/bash
+#Date created: 25.11.2020
+#Created By: Mahesan G
 #Find hdfs files older than n days in the mentioned path.
 #where arg1 is directory path and arg2 is no of days older than.
 #Example: /.hdfsoldfiles.sh /apps/hive/warehouse/ 30
